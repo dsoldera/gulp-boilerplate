@@ -42,5 +42,8 @@
     "run-sequence": "^1.2.2",
     "vinyl-buffer": "^1.0.0",
     "yargs": "^4.7.1"
+  },
+  "dependencies": {
+    "gulp-sass-glob": "^1.0.8"
   }
 }
